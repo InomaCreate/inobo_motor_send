@@ -24,9 +24,9 @@ CMD_VEL_STR = 'cmd_vel'#'joy_teleop/cmd_vel'
 EMERGENCY_STOP_STR = 'emergency_stop'
 # SHUTDOWN_STR = 'shutdown'
 
-TREAD = 0.25 #TRED 0.20m
+TREAD = 0.20 #0.25 #TRED 0.20m
 LIMIT = 1.00#0.70
-SPEED_MAX = 150 #100 #255 #2024.6.26 12v->150 6v->110
+SPEED_MAX = 110 #150 #100 #255 #2024.6.26 12v->150 6v->110
 SPEED_MIN = 70
 ANGULAR_BOOST = 1.5 #3.0 #2.2 #2.0 #1.5 #2024.6.26 12v->2.5 6v->1.5
 
